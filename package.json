@@ -1,0 +1,22 @@
+{
+  "name": "skyblock-website",
+  "version": "1.0.0",
+  "description": "A website designed to do anything related to skyblock",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenose2003/Skyblock-Website.git"
+  },
+  "author": "NoseThe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thenose2003/Skyblock-Website/issues"
+  },
+  "homepage": "https://github.com/thenose2003/Skyblock-Website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
